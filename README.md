@@ -2,7 +2,7 @@
 - 👀 I’m interested in cyber security, backend dev
 - 🌱 I’m currently learning python and php
 - 💞️ I’m looking to collaborate on a network admin tools
-- 📫 How to reach me gary woodson1359@gmail.com
+- 📫 How to reach me garywoodson1359@gmail.com
 - 😄 Pronouns: il le mec dude
 - ⚡ Fun fact: I am geek, no friend, no girlfriend 
 
